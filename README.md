@@ -27,5 +27,7 @@ Age Group
 * Avg age, salary & tenure metrics for better workforce understanding
 * Highlights departments and salary groups most affected by attrition
 * Helps HR identify at-risk groups and take action proactively
+  # DashBoard Preview:-
+  (https://github.com/Suryasmita1234/HR_Employee_Attrition_Analysis/blob/main/Hr_Attrition%20_Dashboard.png)
 👩‍💼 Developed By
 Surya Smita Parid
