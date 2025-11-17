@@ -3,8 +3,8 @@
 * The dashboard provides deep insights into demographics, experience levels, job roles, and salary factors influencing employee resignation
 * It supports HR teams in better decision-making to improve employee retention.
 # Purpose / Objective🎯
-*To analyze why employees are leaving the organization
-*To explore trends in attrition using various HR metrics
+* To analyze why employees are leaving the organization
+* To explore trends in attrition using various HR metrics
 * To help management create effective retention strategies
 * To enable data-driven workforce planning
 # Tech Stack🛠
